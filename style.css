@@ -1,8 +1,16 @@
+.primary{
+    background-color: red;
+    text-align: center;
+}
 .primary h2{
     color: green;
     text-transform: capitalize;
 }
 
+.secondary{
+    background-color: green;
+    text-align: center;
+}
 .secondary h2{
     color: red;
     text-transform: capitalize;
